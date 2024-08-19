@@ -19,17 +19,22 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I started as a software engineer around 4 years ago, i already worked
-        for several company like Bank Central Asia(one of the largest private
-        bank in Indonesia), Telkom Indonesia (multinational telecommunications
-        in my country). Currently I working as a Senior Frontend Engineer at
-        Wastec Indonesia. In this office I recently build Sustainabilty Report
-        application dashboard and software as a service Apps for Eco Friendly
-        bussiness. <br />
-        <br /> I will help you turn your brilliant ideas into reliable and
-        high-quality software. My software development company is truly proud of
-        the wonderful clients we have worked with. I enjoy a long-term
-        partnership.
+        Currently, I am working in Sydney, Australia as a full stack developer.
+        In this role, I created a SaaS platform specializing in education
+        technology, particularly in the area of Recognition of Prior Learning
+        (RPL).
+        <br /> I began my career as a software engineer around five years ago
+        and have had the privilege of working with several prominent companies
+        such as Bank Central Asia, one of the largest private banks in
+        Indonesia, and Telkom Indonesia, a leading multinational
+        telecommunications company. Most recently, I served as a Senior Frontend
+        Engineer at Wastec Indonesia, where I developed a Sustainability Report
+        application dashboard and software-as-a-service apps for eco-friendly
+        businesses.
+        <br />I am dedicated to turning your innovative ideas into reliable and
+        high-quality software. My software development company is proud of the
+        wonderful clients we have worked with and values the long-term
+        partnerships we’ve established.
       </p>
     </motion.section>
   );

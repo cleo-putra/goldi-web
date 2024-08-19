@@ -36,12 +36,20 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Full Stack Developer",
+    location: "Qualify Me Australia!",
+    description:
+      "Worked as fullstack developer that create SaaS Web Platform and also manage Wordpress Applications.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2023 - present",
+  },
+  {
     title: "Senior Front-End Engineer",
     location: "Wastec Indonesia",
     description:
       "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
     icon: React.createElement(CgWorkAlt),
-    date: "2022 - present",
+    date: "2022 - 2023",
   },
   {
     title: "Front-End Engineer",
@@ -115,24 +123,24 @@ export const projectsData = [
 export const skillsData = [
   "React",
   "Next.js",
-  "Gatsby js",
   "Node.js",
   "Redux",
   "GraphQL",
-  "MongoDB",
   "TypeScript",
   "JavaScript",
   "Tailwind CSS",
   "Ant Design",
   "Material UI",
-  "PHP",
+  ".NET Framework",
+  "C#",
+  "Wordpress",
+  "Oxygen",
+  "Elementor",
   "Docker",
   "Google Cloud Platform",
-  "Laravel",
   "HTML",
   "CSS",
-  "Swagger",
+  "Jira",
   "Git",
   "Figma",
-  "Wordpress",
 ] as const;
